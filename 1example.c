@@ -8,5 +8,5 @@
 
 int main () 
 {
-	printf ("this test program work && compiled in docker gcc6");
+	printf ("this test program works && compiled in docker gcc6");
 }
