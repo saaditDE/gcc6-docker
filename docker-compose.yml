@@ -1,0 +1,6 @@
+# provided by SAAD-IT 2022
+version: "3.9"
+services:
+  docker:
+    build: .
+    command: tail -F anything
