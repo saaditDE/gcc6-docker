@@ -10,7 +10,7 @@
 - use the compiled binary in current directory
 
 # Why?
-Compilation of old exploits / old Software
+Compiling old exploits (= old Software)
 
 # Who did what?
 - The .sh files and compose made/adapted by SAAD-IT
