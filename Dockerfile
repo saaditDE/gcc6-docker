@@ -1,4 +1,4 @@
-# modified by SAAD-IT 2020
+# modified by SAAD-IT 2022
 # original https://raw.githubusercontent.com/kunitoki/cxx-docker-images/master/images/clang-6/Dockerfile
 
 FROM ubuntu:16.04
