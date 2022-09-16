@@ -8,7 +8,7 @@ License for the Dockerfile: https://github.com/kunitoki/cxx-docker-images/blob/m
 * Please share the original link of this repository, if possible (not a legal obligation)
 
 # In case of contributions
-* Your files are still yours, however the repository maintainers get a non-restrictable/non-removable license for your files to use them
+* Your files are still yours, however the repository maintainers get a non-restrictable/non-removable license for your files to use, share, modify and delete them
 * You are responsible for all legal issues with your code / contribution
 * If you legally borrow code from others, mention them (even if specified otherwise)
 
