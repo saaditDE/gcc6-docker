@@ -14,7 +14,8 @@ Compiling old exploits (= old Software)
 
 # Who did what?
 - The .sh files and compose made/adapted by SAAD-IT
-- Other files from e.g. original repo: https://raw.githubusercontent.com/kunitoki/cxx-docker-images/master/images/clang-6/Dockerfile
+- Dockerfile from original repo: https://github.com/kunitoki/cxx-docker-images/blob/master/images/clang-6/Dockerfile
+- License for the dockerfile by kunitoki https://github.com/kunitoki/cxx-docker-images/blob/master/LICENSE
 - Tool for gif recording is Peek https://github.com/phw/peek
 
 # Disclaimer
