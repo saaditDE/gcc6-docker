@@ -12,8 +12,10 @@ License for the Dockerfile: https://github.com/kunitoki/cxx-docker-images/blob/m
 * You are responsible for all legal issues with your code / contribution
 * If you legally borrow code from others, mention them
 
-
 # Counting law and Legality of individual points
 For this license the law of the Federal Republic of Germany does count. You are obligated to follow all German laws applicable to it, even if you are not a German citizen / living / visiting the Germany.
 
 The invalidty of one point does not exclude the legality of other points in this License. The License will remain, even after striking invidiual mentioned points.
+
+# Responsibility
+* SAAD-IT and its members are not responsible for any flaws, legal issues, possible risks or benefits of this repository, including the LICENSE and CODE. 
