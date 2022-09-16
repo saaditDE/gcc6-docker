@@ -19,4 +19,5 @@ Compiling old exploits (= old Software)
 - Tool for gif recording is Peek https://github.com/phw/peek
 
 # Disclaimer
-Lawful activity only. SAAD-IT is not responsible for abuse.
+* Lawful activity only. SAAD-IT is not responsible for abuse.
+* [LICENSE.md](LICENSE.md)
