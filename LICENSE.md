@@ -4,19 +4,18 @@ License for the Dockerfile: https://github.com/kunitoki/cxx-docker-images/blob/m
 # License for the rest of the files
 * Don't use the files for illegal activity
 * Do whatever legal activties you want to do with the files
-* Please share using the original link (this is not a legal obligation)
-* Authors keep their copyright
+* Repository authors keep their copyright - with restrictions applying to them e.g. usage and modification by others
+* Please share the original link of this repository, if possible (not a legal obligation)
 
 # In case of contributions
-* Your files are still yours, however the repository maintainers get a non-restrictable/removable license for your files to use them
+* Your files are still yours, however the repository maintainers get a non-restrictable/non-removable license for your files to use them
 * You are responsible for all legal issues with your code / contribution
-* If you legally borrow code from others, mention them
-
-# Counting law and Legality of individual points
-* For this license the law of the Federal Republic of Germany does count. You are obligated to follow all German laws applicable to it, even if you are not a German citizen / living / visiting the Germany.
-
-* The invalidty of one point does not exclude the legality of other points in this License. The License will remain, even after striking invidiual mentioned points.
+* If you legally borrow code from others, mention them (even if specified otherwise)
 
 # Responsibility
-* SAAD-IT and its members are not responsible for any flaws, legal issues, possible risks or benefits of this repository, including the LICENSE and CODE.  
-* You are responsible to keep your devices free of any malicious code, reading the code BEFORE executing it AND reading the manuals. 
+* SAAD-IT and its members are not responsible for any flaws, legal issues, possible risks or benefits of this repository, including the LICENSE and CODE  
+* You are responsible to keep your devices free of any malicious code, reading the code BEFORE executing it AND reading the manuals
+
+# Applicable Law & Legality of individual points
+* Applicable Law is only the law of the Federal Republic of Germany (BRD)
+* Invalidity of one point, does not exclude the legality of other points - they remain
