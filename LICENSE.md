@@ -20,3 +20,6 @@ License for the Dockerfile: https://github.com/kunitoki/cxx-docker-images/blob/m
 # Applicable Law & Legality of individual points
 * Applicable Law is only the law of the Federal Republic of Germany (BRD)
 * Invalidity of one point, does not exclude the legality of other points - they remain
+
+# Special permissions
+* Offensive Security (short OffSec) has a unlimited usage and modify permission, non-revokable. See: https://www.offensive-security.com/
