@@ -23,3 +23,4 @@ License for the Dockerfile: https://github.com/kunitoki/cxx-docker-images/blob/m
 
 # Special permissions
 * Offensive Security (short OffSec) has a unlimited usage and modify permission, non-revokable. See: https://www.offensive-security.com/
+* OffSec Students have the right to legally use it, non-revokable
